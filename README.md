@@ -22,6 +22,7 @@
 - 🏢 19.04 - 19.08: Worked in Business Planning Team, KSPO (Internship)
 - 🏢 21.02 - 21.07: Worked in Convention Marketing Team, KINTEX (Contract worker)
 - 🏫 22.01 - 22.12: Studied Web Programming in SSAFY 7th
+- 🏢 23.02 ~ : Worked in Airline Management Systems Team, ASIANA IDT (Application Maintenance)
 
 ## 📊 Stats
 ![whiterisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterisi&show_icons=true&theme=dracula)
